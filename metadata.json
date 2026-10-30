@@ -1,0 +1,6 @@
+{
+  "name": "E-Ujian SMP Negeri 3 Kertek",
+  "description": "Platform E-Ujian dan Asesmen Pembelajaran Digital SMP Negeri 3 Kertek berbasis sistem ANBK dengan IndexedDB lokal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
